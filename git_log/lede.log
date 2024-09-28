@@ -2,7 +2,5 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-42d626f8d|Oskari Lemmela|Thu Jul 11 11:01:32 2024 +0300|kernel: netdevices: add leds support
-d51d4477e|Oskari Lemmela|Wed Jul 10 19:34:47 2024 +0300|kernel: netdevices: add phy modules
-6ca5e8551|Oskari Lemmela|Thu Jul 11 10:47:36 2024 +0300|kernel: modules: add irq support for pca953x
+91b20eaed|Oskari Lemmela|Sun Oct 8 10:33:50 2023 +0300|kernel: netdevices: add dsa support
 </details>
