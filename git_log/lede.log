@@ -2,5 +2,5 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-91b20eaed|Oskari Lemmela|Sun Oct 8 10:33:50 2023 +0300|kernel: netdevices: add dsa support
+02f936358|syb999|Sat Sep 21 17:25:09 2024 +0800|usb-audio: add kernel 6.6 dependency
 </details>
