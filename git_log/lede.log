@@ -2,5 +2,6 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-02f936358|syb999|Sat Sep 21 17:25:09 2024 +0800|usb-audio: add kernel 6.6 dependency
+fac34a2df|coolsnowwolf|Fri Sep 27 10:30:19 2024 +0800|rockchip: sync upstream 6.6 source code
+55b08d205|coolsnowwolf|Sun Sep 29 18:54:51 2024 +0800|bcm27xx: fix linux 6.1 compile issues
 </details>
