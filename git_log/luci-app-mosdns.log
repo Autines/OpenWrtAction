@@ -1,0 +1,6 @@
+<details> <summary> <b>luci-app-mosdns new commit log :new: </b>  </summary>
+
+SHA|Author|Date|Message
+-|-|-|-
+ab4c2a0|sbwml|Thu Oct 3 06:43:29 2024 +0800|luci-app-mosdns: make cloudflare self-selected ip effective outside the rules list
+</details>
