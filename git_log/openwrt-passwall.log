@@ -2,5 +2,6 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-c90406e|zhusir|Thu Oct 3 18:04:11 2024 +0800|luci: Xray shunt remove Steam direct configuration
+8c16de4|lwb1978|Sat Oct 5 09:28:37 2024 +0800|luci: bump version 4.78-3
+b89d855|lwb1978|Fri Oct 4 21:13:36 2024 +0800|luci: merge processes when TCP and UDP nodes are the same
 </details>

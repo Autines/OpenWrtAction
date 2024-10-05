@@ -1,7 +1,0 @@
-<details> <summary> <b>luci-app-mosdns new commit log :new: </b>  </summary>
-
-SHA|Author|Date|Message
--|-|-|-
-6e229e4|sbwml|Fri Oct 4 02:38:49 2024 +0800|luci-app-mosdns: use class Value on bootstrap dns
-805606d|sbwml|Thu Oct 3 19:48:25 2024 +0800|mosdns: forward: avoid picking same upstream
-</details>
