@@ -1,6 +1,0 @@
-<details> <summary> <b>passwall new commit log :new: </b>  </summary>
-
-SHA|Author|Date|Message
--|-|-|-
-f738d0b|lwb1978|Sat Oct 5 22:21:38 2024 +0800|luci: keep the custom nodes of haproxy when update subscribe
-</details>
