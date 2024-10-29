@@ -2,6 +2,6 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-b1684789e|Daniel Golle|Sun Oct 27 14:24:47 2024 +0000|mediatek: mt7988: add DT entries for WED
-e1b895b3c|Daniel Golle|Sat Oct 26 15:18:50 2024 +0100|generic: mtk_wed: fix path of MT7988 WO firmware
+7e49db2e3|coolsnowwolf|Tue Oct 29 03:31:19 2024 +0800|ddns-scripts_dnspod: update with luci upstream
+68d77afca|coolsnowwolf|Tue Oct 29 03:23:43 2024 +0800|ddns-scripts_aliyun: update with luci upstream
 </details>
