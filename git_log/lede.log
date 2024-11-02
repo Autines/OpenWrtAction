@@ -2,8 +2,7 @@
 
 SHA|Author|Date|Message
 -|-|-|-
+897572506|Daniel Golle|Sat Oct 5 22:19:43 2024 +0100|generic: phy: aquantia: correctly describe LED polarity
+e5c20ddcd|Robert Marko|Sun Feb 11 18:56:54 2024 +0100|generic: add fix for AQR113 PMD Global Transmit Disable bit
 8537d3eae|coolsnowwolf|Fri Nov 1 12:03:49 2024 +0800|filogic: add support for ZyXEL EX5700
-bd85b6392|coolsnowwolf|Thu Oct 31 17:11:03 2024 +0800|build: correctly ignore Initramfs image might fail as it's too big
-568395dbb|coolsnowwolf|Thu Oct 31 17:03:54 2024 +0800|ramips: switch to kernel 5.10
-f3d6035d7|coolsnowwolf|Thu Oct 31 16:53:49 2024 +0800|kernel: bump 5.10 to 5.10.221
 </details>
