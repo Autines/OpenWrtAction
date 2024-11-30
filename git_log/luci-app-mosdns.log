@@ -1,7 +1,0 @@
-<details> <summary> <b>luci-app-mosdns new commit log :new: </b>  </summary>
-
-SHA|Author|Date|Message
--|-|-|-
-510e0cc|sbwml|Thu Nov 28 20:53:40 2024 +0800|luci-app-mosdns: update github proxy
-277c91e|sbwml|Thu Nov 28 20:51:46 2024 +0800|luci-app-mosdns: dos2unix luci-app-mosdns.json
-</details>
