@@ -1,6 +1,0 @@
-<details> <summary> <b>luci-app-mosdns new commit log :new: </b>  </summary>
-
-SHA|Author|Date|Message
--|-|-|-
-dde0c95|sbwml|Sun Dec 1 16:55:02 2024 +0800|luci-app-mosdns: add follow-up process for fallback logic
-</details>
