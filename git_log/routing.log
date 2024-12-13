@@ -1,0 +1,7 @@
+<details> <summary> <b>routing new commit log :new: </b>  </summary>
+
+SHA|Author|Date|Message
+-|-|-|-
+be6e1a4|Simon Wunderlich|Wed Dec 11 12:03:37 2024 +0100|Merge pull request #1092 from ecsv/batadv-for-23.05
+12b7112|Sven Eckelmann|Tue Dec 10 22:45:54 2024 +0100|batman-adv: Merge bugfixes from 2024.4
+</details>

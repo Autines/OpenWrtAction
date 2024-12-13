@@ -2,5 +2,6 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-41e0c30d8|Luis Mita|Tue May 7 11:48:37 2024 -0400|mediatek: add Cudy TR3000 v1 support
+21eb7bf2a|Oleg S|Sat Mar 2 11:18:13 2024 +0300|mediatek: expand kernel size to 6MiB for Xiaomi AX6S
+d242992f6|coolsnowwolf|Wed Dec 11 19:28:11 2024 +0800|base-files: allow override model name from uboot env
 </details>

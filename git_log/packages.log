@@ -2,7 +2,7 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-06c4e87f|Miko-5|Wed Dec 11 12:00:17 2024 +0800|bind: bump to 9.20.0 (#873)
-7af03ce8|Internet1235|Wed Dec 11 10:30:21 2024 +0800|alist: update to 3.39.2 (#875)
-e24ff4d5|Miko-5|Tue Dec 10 19:39:11 2024 +0800|screen: remove outdate patch (#877)
+b0637ebf|coolsnowwolf|Thu Dec 12 18:32:11 2024 +0800|bind: update to v9.20.4
+9ddc28b6|coolsnowwolf|Thu Dec 12 18:16:17 2024 +0800|Merge pull request #881 from Internet1235/ariang
+d6a65870|Internet1235|Thu Dec 12 16:38:15 2024 +0800|ariang: update to v1.3.8
 </details>
