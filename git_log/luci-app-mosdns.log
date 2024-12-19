@@ -1,8 +1,0 @@
-<details> <summary> <b>luci-app-mosdns new commit log :new: </b>  </summary>
-
-SHA|Author|Date|Message
--|-|-|-
-ed10529|sbwml|Tue Dec 17 22:46:52 2024 +0800|install.sh: update ghproxy
-adbfd78|sbwml|Tue Dec 17 22:43:52 2024 +0800|luci-app-mosdns: drop broken gh proxy
-4fc714f|sbwml|Tue Dec 17 22:39:41 2024 +0800|mosdns: patches: update from upstream
-</details>
