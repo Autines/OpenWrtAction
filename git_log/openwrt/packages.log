@@ -1,8 +1,0 @@
-<details> <summary> <b>packages new commit log :new: </b>  </summary>
-
-SHA|Author|Date|Message
--|-|-|-
-0d18846da|Florian Eckert|Wed Apr 23 12:42:18 2025 +0200|xtables-addons: remove not needed iptables install dependency for RTSP helpers
-d22130963|Florian Eckert|Thu Apr 24 08:56:19 2025 +0200|modemmanager: backport fixes for version 1.24.0
-c91e9322c|Wesley Gimenes|Tue May 13 11:23:02 2025 -0300|netbird: update to 0.43.3
-</details>

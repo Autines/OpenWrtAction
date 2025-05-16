@@ -1,7 +1,0 @@
-<details> <summary> <b>lede new commit log :new: </b>  </summary>
-
-SHA|Author|Date|Message
--|-|-|-
-fc02b412f|Joe Zheng|Sat Feb 8 01:18:03 2025 +0000|firmware: add Intel VPU/NPU firmware
-12749793a|Daniel Golle|Sat Nov 2 20:22:35 2024 +0000|kernel: modules: MIPI DBI TFT panels
-</details>
