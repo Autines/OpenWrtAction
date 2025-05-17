@@ -1,0 +1,8 @@
+<details> <summary> <b>packages new commit log :new: </b>  </summary>
+
+SHA|Author|Date|Message
+-|-|-|-
+87175e4ca|Clair-Loup Sergent|Wed May 14 22:08:11 2025 +0200|wifi-presence: fix reading mqttID from config
+676693989|Matthias Schiffer|Mon May 12 18:42:41 2025 +0200|perl: do not set LD_LIBRARY_PATH for cross compile
+d8a233f90|Fabian Lipken|Tue May 13 10:22:02 2025 +0200|fx: update to 36.0.1
+</details>
