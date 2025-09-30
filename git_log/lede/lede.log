@@ -1,0 +1,7 @@
+<details> <summary> <b>lede new commit log :rocket: </b> </summary>
+
+SHA|Author|Date|Message
+-|-|-|-
+a7806d65f|coolsnowwolf|Mon Sep 29 18:51:34 2025 +0800|Update README.md
+86255ea91|coolsnowwolf|Mon Sep 29 17:58:00 2025 +0800|Revert "dnsmasq: Support nftables nftsets"
+</details>
