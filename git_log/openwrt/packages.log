@@ -2,6 +2,23 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-60606d6f6|Dirk Brenken|Sun Oct 19 20:20:02 2025 +0200|travelmate: update 2.2.1-2
-ea6950a07|Ralph Siemsen|Fri Oct 17 16:09:21 2025 -0400|znc: do not watch znc.conf for changes
+b021aba0b|Josef Schlehofer|Fri Oct 3 11:34:46 2025 +0200|multi-arch-test-build: run it only after the Formality check succeeds
+ef893976e|Felix Fietkau|Mon Mar 3 12:18:13 2025 +0100|python3-host.mk: disable pip --no-binary on macOS
+58eb9bbf1|W. Michael Petullo|Sat May 31 07:44:02 2025 -0500|python-networkx: update to 3.5
+d04de4200|Josef Schlehofer|Wed Oct 1 00:07:27 2025 +0200|yt-dlp: update to version 2025.9.26
+34a99de9c|Josef Schlehofer|Wed Oct 1 00:33:08 2025 +0200|gzip: update to version 1.14
+91b94c2cb|Josef Schlehofer|Wed Oct 1 00:53:08 2025 +0200|tor: update to version 0.4.8.18
+1326c21ec|George Sapkin|Fri Oct 3 02:07:39 2025 +0300|python-trove-classifiers: bump to 2025.9.11.17
+28c2351f8|Robert Marko|Tue Oct 21 14:25:38 2025 +0200|mhz: update to latest version
+644ab8c70|Jan Hák|Thu Oct 16 15:23:29 2025 +0200|knot: update to version 3.5.1
+1991fde20|Petr Štetiar|Wed May 21 18:48:30 2025 +0000|lvm2: install: fix "Argument list too long" error when copying symlinks
+9f66360e5|Finn Landweber|Wed Nov 20 14:39:59 2024 +0100|python-setuptools-scm: update to 8.1.0
+0f4782d14|Alexandru Ardelean|Sun May 11 07:40:14 2025 +0300|python-lxml: bump to version 5.4.0
+c1a3e22aa|Alexandru Ardelean|Fri Aug 23 16:15:42 2024 +0300|python-lxml: bump to version 5.3.0
+62819b7e5|Wei-Ting Yang|Sat Aug 23 18:49:18 2025 +0800|python-urllib3: update to 2.5.0
+e160ba18d|Josef Schlehofer|Wed Oct 1 00:57:57 2025 +0200|python-hatchling: update to version 1.27.0
+fb35b8780|Wei-Ting Yang|Fri Sep 5 10:59:45 2025 +0800|python-packaging: update to 25.0
+f1470815f|Andrea Pesaresi|Mon Oct 20 18:29:44 2025 +0300|ksmbd-tools: update to 3.5.5
+614450c85|Andrea Pesaresi|Mon Oct 20 18:29:32 2025 +0300|ksmbd-tools: bump to 3.5.4
+129e357fb|Andrea Pesaresi|Mon Oct 20 18:29:20 2025 +0300|ksmbd-tools: adjust smb2 max read/write/trans and cache
 </details>
