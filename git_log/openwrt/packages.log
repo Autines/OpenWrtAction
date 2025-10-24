@@ -2,11 +2,11 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-801e26c8c|Noah Meyerhans|Wed Oct 22 16:29:11 2025 -0400|bind: bump to 9.20.15
-d73732c13|Dirk Brenken|Wed Oct 22 20:59:16 2025 +0200|travelmate: update 2.2.1-3
-081ed7ed2|Nate Robinson|Sat Sep 20 13:45:04 2025 -0400|lf: update to r38
-5cf245f6a|Josef Schlehofer|Wed Oct 22 02:20:02 2025 +0200|python-hatch-requirements-txt: bump to 0.4.1
-80e392b49|Josef Schlehofer|Tue Oct 21 22:42:41 2025 +0200|syslog-ng: update to version 4.10.2
-961d703b8|Joel Low|Sat Feb 8 16:23:01 2025 +0800|strongswan: preserve changed configuration files
-83bde0520|Robert Marko|Sun May 18 13:44:33 2025 +0200|strongswan: mark UCI plugin as broken
+d8568263a|Tianling Shen|Tue Oct 21 13:52:54 2025 +0800|cloudreve: Update to 4.9.2
+1bc126120|Tianling Shen|Tue Sep 16 21:54:11 2025 +0800|cloudreve: Update to 4.8.0
+be6c2e14b|Tianling Shen|Fri Aug 22 17:22:33 2025 +0800|cloudreve: Update to 4.6.0
+98ff7a126|Tianling Shen|Thu Aug 7 22:29:10 2025 +0800|cloudreve: Update to 4.4.1
+021395495|Tianling Shen|Tue Aug 5 17:12:05 2025 +0800|cloudreve: Update to 4.4.0
+393d45de3|Tianling Shen|Tue Oct 21 13:49:06 2025 +0800|dos2unix: Update to 7.5.3
+d42abaeb2|Tianling Shen|Tue Oct 21 13:41:40 2025 +0800|openlist: Update to 4.1.5
 </details>
