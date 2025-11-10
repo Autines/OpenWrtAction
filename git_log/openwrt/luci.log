@@ -1,5 +1,6 @@
 <details> <summary> <b>luci new commit log :rocket: </b> </summary>
 
-<b>Initial commit log for luci, no previous SHA.</b>
-
+SHA|Author|Date|Message
+-|-|-|-
+ae2aec8b25|Paul Donald|Sun Nov 9 15:04:14 2025 +0100|luci-mod-status: ES6 treatment, hide disabled radios and SSIDs
 </details>
