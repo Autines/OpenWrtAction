@@ -2,5 +2,6 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-3b1d590|lwb1978|Sat Dec 27 10:57:05 2025 +0800|naiveproxy: update to 143.0.7499.109-2
+b13eaea|A-BO|Mon Dec 29 20:20:13 2025 +0800|geoview: update to 0.2.0
+b039058|A-BO|Mon Dec 29 20:14:45 2025 +0800|microsocks: fix C90 compliance
 </details>

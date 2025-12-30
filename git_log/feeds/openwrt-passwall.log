@@ -2,7 +2,6 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-2b8c0ca|lwb1978|Sun Dec 28 18:38:10 2025 +0800|luci: optimize `listvalue` templates to adapt to some themes
-44526aa|zxl hhyccc|Sat Dec 27 14:11:09 2025 +0800|luci: fix clearing luci cache. (#4208)
-2991ae1|lwb1978|Sat Dec 27 13:43:10 2025 +0800|luci: optimize the experience of `listvalue` and `multivalue` templates on mobile devices
+414806b|LGA1150|Tue Dec 30 09:29:38 2025 +0800|luci: add Xray pre-connect (testpre) (#4210)
+9dabbb6|A-BO|Tue Dec 30 01:09:52 2025 +0800|luci: add `value` template to the node selector of haproxy
 </details>
