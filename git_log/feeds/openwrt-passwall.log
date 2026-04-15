@@ -2,9 +2,8 @@
 
 SHA|Author|Date|Message
 -|-|-|-
+49930157|A-BO|Wed Apr 15 10:07:12 2026 +0800|luci: add `cwndmultiplier` support for mkcp and remove its rarely used config options
+b902cfa1|A-BO|Tue Apr 14 23:05:11 2026 +0800|luci: adjust and fix
+3b61837d|A-BO|Tue Apr 14 00:44:04 2026 +0800|luci: optimize dns logic for redir and acl
 df6d2665|A-BO|Tue Apr 14 00:44:04 2026 +0800|luci: optimize
-5033270a|A-BO|Mon Apr 13 23:09:46 2026 +0800|luci: refresh the preproxy node of the shunt node when subscribe
-a6538ac7|A-BO|Mon Apr 13 22:20:16 2026 +0800|luci: optimize the logic of adding wan_ip to ipset/nftset (#4333)
-78f4955e|lwb1978|Sun Apr 12 23:16:44 2026 +0800|luci: adjust and optimize
-a20d1cf9|lwb1978|Sun Apr 12 23:16:44 2026 +0800|luci: adjust and optimize
 </details>
