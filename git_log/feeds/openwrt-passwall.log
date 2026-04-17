@@ -2,6 +2,5 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-20f7d42|A-BO|Wed Apr 15 13:45:41 2026 +0800|luci: 26.4.15
-57d56da|A-BO|Wed Apr 15 11:10:27 2026 +0800|luci: optimize node `user-agent` config options
+b231260|A-BO|Fri Apr 17 03:06:05 2026 +0800|luci: socks backup nodes support adjusting order
 </details>
