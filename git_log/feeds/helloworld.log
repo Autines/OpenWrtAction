@@ -2,5 +2,5 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-9a4d1ff|coolsnowwolf|Thu May 7 11:04:48 2026 +0800|xray-core: update to 26.5.3
+79e3059|coolsnowwolf|Sat May 9 00:23:10 2026 +0800|luci-app-ssr-plus: fix node drag reorder in pageable mode
 </details>
