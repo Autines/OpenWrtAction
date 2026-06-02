@@ -1,8 +1,0 @@
-<details> <summary> <b>luci-theme-aurora new commit log :rocket: </b> </summary>
-
-SHA|Author|Date|Message
--|-|-|-
-7e9048c|Eamon|Sun May 31 13:49:06 2026 +0800|chore: release v0.12.0
-57c2e0d|Eamon|Sun May 31 12:13:08 2026 +0800|fix: remove redundant svg check causing ucode syntax error in header.ut
-10ee08d|Eamon|Sun May 31 11:58:13 2026 +0800|feat: flatten pwa/ directory, remove unused assets, dynamic favicon chain
-</details>
