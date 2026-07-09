@@ -1,0 +1,6 @@
+<details> <summary> <b>openwrt-passwall new commit log :rocket: </b> </summary>
+
+SHA|Author|Date|Message
+-|-|-|-
+31000944|A-BO|Wed Jul 8 16:09:03 2026 +0800|luci: fix sing-box grpc/http/hy2 timeout format
+</details>
