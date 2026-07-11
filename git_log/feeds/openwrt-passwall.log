@@ -2,5 +2,7 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-225f017c|A-BO|Thu Jul 9 11:39:37 2026 +0800|luci: remove `none/zero/plain` for xray vmess/shadowsocks
+adab49f7|A-BO|Sat Jul 11 15:47:46 2026 +0800|luci: xray add min version limit
+7e5c8de9|A-BO|Sat Jul 11 15:34:23 2026 +0800|luci: xray add env configuration
+d6bffb73|A-BO|Sat Jul 11 14:35:52 2026 +0800|luci: add `unsafe` fingerprint to xray settings
 </details>
