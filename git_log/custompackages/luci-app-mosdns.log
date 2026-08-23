@@ -1,0 +1,7 @@
+<details> <summary> <b>luci-app-mosdns new commit log :rocket: </b> </summary>
+
+SHA|Author|Date|Message
+-|-|-|-
+b230ca1|sbwml|Sat Aug 22 23:31:07 2026 +0800|luci-app-mosdns: add proactive prefetch support
+04fdf57|sbwml|Sat Aug 22 23:02:21 2026 +0800|mosdns: cache: add proactive prefetch support
+</details>
