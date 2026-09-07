@@ -2,22 +2,6 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-a9e08616|coolsnowwolf|Sun Sep 6 10:37:48 2026 +0800|qbittorrent: restore procd service support
-c6db233e|coolsnowwolf|Sun Sep 6 10:12:15 2026 +0800|Merge pull request #1138 from Internet1235/rust
-39bdfc63|coolsnowwolf|Sun Sep 6 07:50:26 2026 +0800|bandwidthd: use libgd-full for sqlite variant
-50d3d789|coolsnowwolf|Sun Sep 6 06:45:36 2026 +0800|transmission: use public_html web UI path
-e0786416|coolsnowwolf|Sun Sep 6 06:44:56 2026 +0800|transmission-web-control: update to 2021 snapshot
-356fc788|coolsnowwolf|Sun Sep 6 04:10:25 2026 +0800|xfrpc: update to 5.06.909
-3596a1df|coolsnowwolf|Sun Sep 6 03:05:45 2026 +0800|snort3: update to 3.12.2.0
-94e818ef|coolsnowwolf|Sun Sep 6 02:56:33 2026 +0800|unixodbc: run autoreconf before building
-16108e46|coolsnowwolf|Sun Sep 6 02:53:45 2026 +0800|dawn: update to latest upstream release
-c378b22b|coolsnowwolf|Sun Sep 6 02:38:35 2026 +0800|aria2: mount OpenSSL modules in jail
-216b7797|coolsnowwolf|Sun Sep 6 02:13:51 2026 +0800|transmission: use mbedTLS by default
-e296dcf0|coolsnowwolf|Sun Sep 6 01:23:12 2026 +0800|zerotier: copy persistent config to runtime storage
-71d41b82|coolsnowwolf|Sun Sep 6 01:06:39 2026 +0800|softethervpn: depend on host ncurses
-4b06b7ea|coolsnowwolf|Sun Sep 6 00:54:00 2026 +0800|miniupnpd: reload after firewall changes
-5c1409b4|coolsnowwolf|Sat Sep 5 23:08:22 2026 +0800|miniupnpd-iptables: update to 2.3.9
-
-.....................
-
+a6e3babc|coolsnowwolf|Fri Mar 6 13:23:25 2026 +0800|cshark: add CloudShark capture tool
+8d6d1778|coolsnowwolf|Thu Mar 5 12:38:26 2026 +0800|ddns-scripts: add Tencent Cloud DNSPod API
 </details>
