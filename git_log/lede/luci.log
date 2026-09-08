@@ -2,7 +2,7 @@
 
 SHA|Author|Date|Message
 -|-|-|-
+98d8a72ea2|lean|Mon Sep 7 12:25:59 2026 +0800|luci-compat: support ucode WireGuard protocol helper
+0938265f38|trli|Sat Sep 5 10:06:28 2026 +0800|luci-app-sysctl: add new packages
 d322b2b2ac|trli|Mon Sep 7 10:06:28 2026 +0800|luci-app-sysctl: add new packages
-7c16855be2|tonySun|Mon Sep 7 10:11:03 2026 +0800|luci-app-timecontrol: some issues fixes
-85728422a1|coolsnowwolf|Tue Jul 21 07:01:30 2026 +0800|luci-mod-system: allow resolved proc mounts access
 </details>
