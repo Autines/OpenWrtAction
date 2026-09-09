@@ -1,8 +1,0 @@
-<details> <summary> <b>luci new commit log :rocket: </b> </summary>
-
-SHA|Author|Date|Message
--|-|-|-
-98d8a72ea2|lean|Mon Sep 7 12:25:59 2026 +0800|luci-compat: support ucode WireGuard protocol helper
-0938265f38|trli|Sat Sep 5 10:06:28 2026 +0800|luci-app-sysctl: add new packages
-d322b2b2ac|trli|Mon Sep 7 10:06:28 2026 +0800|luci-app-sysctl: add new packages
-</details>
