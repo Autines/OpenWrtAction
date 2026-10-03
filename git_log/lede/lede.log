@@ -1,0 +1,16 @@
+<details> <summary> <b>lede new commit log :rocket: </b> </summary>
+
+SHA|Author|Date|Message
+-|-|-|-
+25afec95c|coolsnowwolf|Sat Oct 3 12:00:01 2026 +0800|kernel: fix nft Broadcom fullcone mode 2 on Linux 6.1
+36fa0fca3|coolsnowwolf|Sat Oct 3 11:57:18 2026 +0800|kernel: fix nft Broadcom fullcone mode 2 on Linux 5.15
+f1209041e|coolsnowwolf|Sat Oct 3 11:54:23 2026 +0800|kernel: fix nft Broadcom fullcone mode 2 on Linux 5.10
+3fe9e19bf|coolsnowwolf|Sat Oct 3 11:51:56 2026 +0800|kernel: fix nft Broadcom fullcone mode 2 on Linux 5.4
+85649b62b|coolsnowwolf|Sat Oct 3 11:51:36 2026 +0800|kernel: provide socket diagnostics for XDP monitoring
+b60c81438|coolsnowwolf|Sat Oct 3 11:27:24 2026 +0800|firewall: default router images to fw4 and nftables
+c1454e04c|coolsnowwolf|Sat Oct 3 11:22:36 2026 +0800|firewall4: bypass conntrack for LAN SSDP discovery
+47dfb013a|coolsnowwolf|Sat Oct 3 11:21:31 2026 +0800|firewall4: apply TCP congestion control settings and include BBR
+66c2e200c|coolsnowwolf|Sat Oct 3 11:20:15 2026 +0800|firewall: fix fullcone modes and reserve unconfirmed NAT mappings
+2a12d239b|coolsnowwolf|Sat Oct 3 11:14:13 2026 +0800|firewall4: update to 2024.12.18 and complete NAT dependencies
+27caddd78|coolsnowwolf|Sat Oct 3 11:13:03 2026 +0800|nftables: avoid unrelated interval dumps during DNS set updates
+</details>
