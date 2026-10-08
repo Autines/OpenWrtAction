@@ -1,8 +1,0 @@
-<details> <summary> <b>packages new commit log :rocket: </b> </summary>
-
-SHA|Author|Date|Message
--|-|-|-
-e23a39981|Dirk Brenken|Tue Oct 6 21:11:36 2026 +0200|travelmate: minor cp fixes
-835252a89|Josef Schlehofer|Tue Oct 6 07:55:42 2026 +0200|ripe-atlas: fit get_key to the installed variant
-cc31d1fc4|Josef Schlehofer|Tue Oct 6 07:51:27 2026 +0200|ripe-atlas: provide atlas-probe from ripe-atlas-probe
-</details>
